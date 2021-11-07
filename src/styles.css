@@ -1,0 +1,19 @@
+body {
+  background-color: turquoise;
+}
+
+.face {
+  background-color: pink;
+  color: white;
+  height: 100px;
+  width: 200px;
+  border-radius: 10px;
+  font-size: 50px;
+}
+.red-face {
+  background-color: red;
+  color: red;
+  height: 200px;
+  width: 200px;
+  border-radius: 10px;
+}
